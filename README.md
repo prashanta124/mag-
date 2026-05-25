@@ -1,1 +1,33 @@
-# mag-
+# Magdalena Wischnewski Portfolio Website
+
+Updated portfolio website.
+
+## Latest changes
+
+- Removed Grants and Teaching sections.
+- Removed Explore Research button.
+- Added Google Scholar, LinkedIn, ORCID, and Download CV buttons in the requested sequence.
+- Replaced MW logo with profile photo.
+- Simplified the right-side homepage card to only show the profile photo.
+- Removed the saffron and green palette and replaced it with a clean academic navy-blue palette.
+- Removed University Profile from Get in Touch.
+- Added clickable Google Scholar, LinkedIn, and ORCID contact icons.
+- Made selected publications clickable through DOI links.
+
+## GitHub Pages
+
+Upload all files and folders to the root of your GitHub repository:
+
+- index.html
+- style.css
+- script.js
+- README.md
+- assets folder
+
+- Added Research Network with expandable category cards.
+
+- Updated accent colour to Burnt Orange `#BE5103`.
+- Added a More publications box with links to Google Scholar, ORCID, and full CV.
+
+- Reframed academic section as Academic Profile.
+- Added Press & Media section with invited lectures, keynote/public talks, and media-facing research topics.
